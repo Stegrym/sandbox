@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+
+# PyInstaller
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# .logs, .db
+*.log
+*.sqlite3
